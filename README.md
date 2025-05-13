@@ -44,7 +44,3 @@ A web application that leverages Mistral AI's OCR capabilities to extract text a
 
 - Python 3.8+
 - Mistral AI API key
-
-## Screenshots
-
-![Application Screenshot](./screenshot.png)
