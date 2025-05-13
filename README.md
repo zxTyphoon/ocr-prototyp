@@ -18,22 +18,11 @@ A web application that leverages Mistral AI's OCR capabilities to extract text a
    ```
    pip install -r requirements.txt
    ```
-3. Set your Mistral API key as an environment variable:
-   ```
-   # For Windows PowerShell
-   $env:MISTRAL="your_api_key_here"
-   
-   # For Linux/MacOS
-   export MISTRAL="your_api_key_here"
-   ```
+3. Set your Mistral API key as an environment variable
 
 ## Usage
 
 1. Run the application:
-   ```
-   python app_improved.py
-   ```
-   or use the original version:
    ```
    python app.py
    ```
